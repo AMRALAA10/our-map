@@ -104,6 +104,7 @@
     </AppxManifest>
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <Content Include="Assets\Last map.png" />
     <Content Include="Assets\ssp_2floor.jpg" />
     <Content Include="Assets\ssp_1floor.jpg" />
@@ -115,13 +116,18 @@
     <Content Include="Assets\Elec\5th-elec.png" />
     <Content Include="Assets\Elec\7th-elec.png" />
     <Content Include="Assets\Elec\ground-elec.png" />
+=======
+>>>>>>> b0ce16f7f0c726271fd7c8cbf98ec10fcd2763bd
     <Content Include="Assets\map.jpg" />
     <Content Include="Assets\arrow.png" />
     <Content Include="Assets\gar.png" />
     <Content Include="Assets\Logo.scale-240.png" />
+<<<<<<< HEAD
     <Content Include="Assets\Prep-2\3rd-prep.png" />
     <Content Include="Assets\Prep\1st-prep.png" />
     <Content Include="Assets\Prep\ground-prep.png" />
+=======
+>>>>>>> b0ce16f7f0c726271fd7c8cbf98ec10fcd2763bd
     <Content Include="Assets\SmallLogo.scale-240.png" />
     <Content Include="Assets\SplashScreen.scale-240.png" />
     <Content Include="Assets\Square71x71Logo.scale-240.png" />

@@ -112,6 +112,7 @@
                 <EasingDoubleKeyFrame KeyTime="0:0:1.7" Value="-120"/>
             </DoubleAnimationUsingKeyFrames>
         </Storyboard>
+<<<<<<< HEAD
         <Storyboard x:Name="goto_ssp">
         	<DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateX)" Storyboard.TargetName="arrow">
         		<EasingDoubleKeyFrame KeyTime="0:0:0.2" Value="-34"/>
@@ -961,10 +962,13 @@
         		</DiscreteObjectKeyFrame>
         	</ObjectAnimationUsingKeyFrames>
         </Storyboard>
+=======
+>>>>>>> b0ce16f7f0c726271fd7c8cbf98ec10fcd2763bd
     </Page.Resources>
 
     <Grid x:Name="LayoutRoot">
         <StackPanel Orientation="Vertical" Margin="10">
+<<<<<<< HEAD
             <Grid x:Name="select_place">
                 <Grid.ColumnDefinitions>
                 	<ColumnDefinition Width="5*"/>
@@ -972,11 +976,21 @@
                 </Grid.ColumnDefinitions>
             	<TextBox x:ConnectionId='3'                                   x:Name="goWhere" Grid.Column="0" Margin="10,9,10,0"/>
             	<Image x:ConnectionId='4'                       Source="/Assets/arrow.png" Margin="16.333,6,0,-6" Grid.Column="1"/>
+=======
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="5*"/>
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+                <TextBox x:ConnectionId='3'                                   x:Name="goWhere" Grid.Column="0" Margin="10,9,10,0"/>
+                <Image x:ConnectionId='4'                       Source="/Assets/arrow.png" Margin="16.333,6,0,-6" Grid.Column="1"/>
+>>>>>>> b0ce16f7f0c726271fd7c8cbf98ec10fcd2763bd
             </Grid>
             <StackPanel x:Name="stackPanel" RenderTransformOrigin="0.5,0.5" Visibility="Collapsed">
                 <StackPanel.RenderTransform>
                     <CompositeTransform/>
                 </StackPanel.RenderTransform>
+<<<<<<< HEAD
                 <TextBlock HorizontalAlignment="Center" FontSize="40">
                 	<Run Text="Lost!"/>
 </TextBlock>
@@ -1055,6 +1069,12 @@
                 	</Image.RenderTransform>
                 </Image>
             </Grid>
+=======
+                <TextBlock HorizontalAlignment="Center" FontSize="40">Lost!</TextBlock>
+                <TextBlock HorizontalAlignment="Center" FontSize="30">Don't worry, we'll help you</TextBlock>
+            </StackPanel>
+            <Image x:Name="image" Margin="10" Source="/Assets/map.jpg" />
+>>>>>>> b0ce16f7f0c726271fd7c8cbf98ec10fcd2763bd
         </StackPanel>
         <Image x:Name="arrow" Margin="280,420,85,185" Source="/Assets/gar.png" RenderTransformOrigin="0.5,0.5" UseLayoutRounding="False" d:LayoutRounding="Auto" >
             <Image.RenderTransform>

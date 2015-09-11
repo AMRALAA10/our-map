@@ -30,6 +30,7 @@ D:\projects\xamarine\our_map\our_map\obj\Debug\qualifiers.txt
 D:\projects\xamarine\our_map\our_map\obj\Debug\qualifiers.txt.intermediate
 D:\projects\xamarine\our_map\our_map\obj\Debug\MultipleQualifiersPerDimensionFound.txt
 D:\projects\xamarine\our_map\our_map\obj\Debug\ProjectArchitectures.txt
+<<<<<<< HEAD
 D:\projects\visual studio 2013\windows phone contest\handasa-map-master\handasa-map-master\our_map\bin\Debug\App.xbf
 D:\projects\visual studio 2013\windows phone contest\handasa-map-master\handasa-map-master\our_map\bin\Debug\map_page.xbf
 D:\projects\visual studio 2013\windows phone contest\handasa-map-master\handasa-map-master\our_map\bin\Debug\our_map.xr.xml
@@ -62,3 +63,5 @@ D:\projects\visual studio 2013\windows phone contest\handasa-map-master\handasa-
 D:\projects\visual studio 2013\windows phone contest\handasa-map-master\handasa-map-master\our_map\obj\Debug\qualifiers.txt.intermediate
 D:\projects\visual studio 2013\windows phone contest\handasa-map-master\handasa-map-master\our_map\obj\Debug\MultipleQualifiersPerDimensionFound.txt
 D:\projects\visual studio 2013\windows phone contest\handasa-map-master\handasa-map-master\our_map\obj\Debug\ProjectArchitectures.txt
+=======
+>>>>>>> b0ce16f7f0c726271fd7c8cbf98ec10fcd2763bd

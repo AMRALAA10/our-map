@@ -19,6 +19,7 @@
     <RootType FullName="Windows.UI.Xaml.Media.Animation.DoubleAnimationUsingKeyFrames">
       <RootProperty Name="KeyFrames" />
     </RootType>
+<<<<<<< HEAD
     <RootType FullName="Windows.UI.Xaml.Media.Animation.ObjectAnimationUsingKeyFrames">
       <RootProperty Name="KeyFrames" />
     </RootType>
@@ -27,10 +28,13 @@
       <RootProperty Name="Value" />
     </RootType>
     <RootType FullName="Windows.UI.Xaml.Visibility" />
+=======
+>>>>>>> b0ce16f7f0c726271fd7c8cbf98ec10fcd2763bd
     <RootType FullName="Windows.UI.Xaml.Media.Animation.EasingDoubleKeyFrame">
       <RootProperty Name="KeyTime" />
       <RootProperty Name="Value" />
     </RootType>
+<<<<<<< HEAD
     <RootType FullName="Windows.UI.Xaml.Media.Animation.PointAnimationUsingKeyFrames">
       <RootProperty Name="EnableDependentAnimation" />
       <RootProperty Name="KeyFrames" />
@@ -44,6 +48,20 @@
       <RootProperty Name="Duration" />
       <RootProperty Name="To" />
     </RootType>
+=======
+    <RootType FullName="Windows.UI.Xaml.Media.Animation.DoubleAnimation">
+      <RootProperty Name="Duration" />
+      <RootProperty Name="To" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Media.Animation.ObjectAnimationUsingKeyFrames">
+      <RootProperty Name="KeyFrames" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Media.Animation.DiscreteObjectKeyFrame">
+      <RootProperty Name="KeyTime" />
+      <RootProperty Name="Value" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Visibility" />
+>>>>>>> b0ce16f7f0c726271fd7c8cbf98ec10fcd2763bd
     <RootType FullName="Windows.UI.Xaml.Controls.Grid">
       <RootProperty Name="Children" />
       <RootProperty Name="ColumnDefinitions" />
@@ -64,8 +82,11 @@
       <RootProperty Name="RenderTransformOrigin" />
       <RootProperty Name="UseLayoutRounding" />
       <RootProperty Name="RenderTransform" />
+<<<<<<< HEAD
       <RootProperty Name="Visibility" />
       <RootProperty Name="Projection" />
+=======
+>>>>>>> b0ce16f7f0c726271fd7c8cbf98ec10fcd2763bd
       <RootEvent Name="Tapped" />
     </RootType>
     <RootType FullName="Windows.UI.Xaml.Controls.Button">
@@ -76,17 +97,23 @@
     <RootType FullName="Windows.UI.Xaml.Media.CompositeTransform">
       <RootProperty Name="Rotation" />
     </RootType>
+<<<<<<< HEAD
     <RootType FullName="Windows.UI.Xaml.Media.PlaneProjection">
       <RootProperty Name="RotationZ" />
     </RootType>
+=======
+>>>>>>> b0ce16f7f0c726271fd7c8cbf98ec10fcd2763bd
     <RootType FullName="Windows.UI.Xaml.Controls.TextBlock">
       <RootProperty Name="HorizontalAlignment" />
       <RootProperty Name="FontSize" />
       <RootProperty Name="Inlines" />
     </RootType>
+<<<<<<< HEAD
     <RootType FullName="Windows.UI.Xaml.Documents.Run">
       <RootProperty Name="Text" />
     </RootType>
+=======
+>>>>>>> b0ce16f7f0c726271fd7c8cbf98ec10fcd2763bd
     <RootType FullName="Windows.UI.Xaml.Controls.ColumnDefinition">
       <RootProperty Name="Width" />
     </RootType>

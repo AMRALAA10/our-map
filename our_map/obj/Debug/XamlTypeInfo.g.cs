@@ -602,3 +602,7 @@ namespace our_map.our_map_XamlTypeInfo
 }
 
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> b0ce16f7f0c726271fd7c8cbf98ec10fcd2763bd

@@ -125,7 +125,10 @@ namespace our_map
 
         private void Image_Tapped(object sender, TappedRoutedEventArgs e)
         {
+<<<<<<< HEAD
             
+=======
+>>>>>>> b0ce16f7f0c726271fd7c8cbf98ec10fcd2763bd
             switch (placeToGo)
             {
                 case "meca":
@@ -136,6 +139,7 @@ namespace our_map
                     goto_elec.Begin();
                     break;
 
+<<<<<<< HEAD
                 case "e3":
                     goto_e3.Begin();
                     break;
@@ -224,6 +228,19 @@ namespace our_map
                     goto_k1.Begin();
                     break;
 
+=======
+               case "e3":
+                    goto_e3.Begin();
+                    break;
+
+               case "m":
+                    goto_Mng.Begin();
+                    break;
+
+               case "pro":
+                    goto_pro.Begin();
+                    break;
+>>>>>>> b0ce16f7f0c726271fd7c8cbf98ec10fcd2763bd
             }
         }
 
